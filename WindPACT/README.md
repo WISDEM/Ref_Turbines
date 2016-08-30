@@ -11,13 +11,15 @@ may use the models.
 
 Directory Contents
 ------------------
-The directory currently contains Excel design files that 
+The directory currently contains 1) Excel design files that 
 contain the original design calculations from the WindPACT
-study that were used to calculate the FAST 7 parameters.
+study that were used to calculate the FAST 7 parameters,
+and 2) FAST v7 input files for the four reference models.
 
 Contacts
 --------
-For issues, questions, or concerns, contact <NAME> at <EMAIL>
+For issues, questions, or concerns, contact Jenni Rinker 
+at EMAIL
 
 References
 ----------
