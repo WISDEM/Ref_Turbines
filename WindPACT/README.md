@@ -13,8 +13,9 @@ Directory Contents
 ------------------
 The directory currently contains 1) Excel design files that 
 contain the original design calculations from the WindPACT
-study that were used to calculate the FAST 7 parameters,
-and 2) FAST v7 input files for the four reference models.
+study that were used to calculate the FAST parameters,
+and 2) FAST v7 and v8 input files for the four reference 
+models, and 3) modal analysis results from Modes v2.22.
 
 Contacts
 --------
